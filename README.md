@@ -28,7 +28,6 @@ Tools:
 - R 3.6.1  
 - `caret`, `corrplot`, `dplyr`, `e1071`  
 
-
 Question 2: Solar Radio Flux Prediction (Python)
 
 Goal: Predict solar radio flux values based on sunspot numbers and solar flare counts.
@@ -43,17 +42,13 @@ Tools:
 - Python 3 (Anaconda 2023)  
 - `pandas`, `matplotlib`, `seaborn`, `scikit-learn`  
 
----
-
-Notes
+Notes:
 
 - All analyses were run on 'Bluehive' (University of Rochester's HPC environment)
 - Each notebook includes all code, comments, and embedded answers
 - Extra credit tasks (Keras-based neural networks) are not included in this version
 
----
-
-Author
+Author:
 
 Ying Zhou
 University of Rochester  
